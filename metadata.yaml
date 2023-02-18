@@ -1,0 +1,33 @@
+_repo: Unnatural-death_70008
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sayers, Dorothy L. (Dorothy Leigh)
+    aliases:
+    - Fleming, Dorothy Leigh Sayers
+    - Sayers, Dorothy Leigh
+    birthdate: 1893
+    deathdate: 1957
+    gutenberg_agent_id: '45867'
+    url: http://www.gutenberg.org/2009/agents/45867
+    wikipedia: https://en.wikipedia.org/wiki/Dorothy_L._Sayers
+description: ''
+gutenberg_issued: '2023-02-10'
+identifiers:
+  gutenberg: '70008'
+language: en
+pgterms:marc904: https://archive.org/details/unnaturaldeath00saye_0/mode/2up
+pgterms:marc905: 20221230160009sayers
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Greg Weeks, Mary Meehan & the online Distributed
+  Proofreaders Canada team at https://www.pgdpcanada.net
+publication_note: '  $aUnited States :$bHarper & Row, Publishers, $c1927, pubdate
+  1987.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Unnatural death
+url: http://www.gutenberg.org/ebooks/70008
